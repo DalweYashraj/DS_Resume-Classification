@@ -71,8 +71,7 @@ For model deployment ,we have implemented data on streamlit.
             pip install pdfplumber
             pip install xgboost==1.5.0
             streamlit run filename.py
-4.New window will open having deployment part
-
+4.New window will open having deployment part.
 
 
 
